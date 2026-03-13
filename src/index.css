@@ -1,0 +1,6 @@
+/* Dans votre fichier CSS (index.css ou autre) */
+main {
+    padding-top: 50px;    /* Espace entre le Header et le contenu */
+    padding-bottom: 50px; /* Espace entre le contenu et le Footer */
+    min-height: 70vh;     /* Assure un minimum d'espace vertical sur les petites pages */
+}
